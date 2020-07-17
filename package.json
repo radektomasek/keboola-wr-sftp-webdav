@@ -20,7 +20,7 @@
     "commander": "^2.9.0",
     "curlrequest": "^1.0.1",
     "is-there": "^4.4.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.18.0",
     "nconf": "^0.8.4",
     "ssh2-sftp-client": "^1.0.5"
